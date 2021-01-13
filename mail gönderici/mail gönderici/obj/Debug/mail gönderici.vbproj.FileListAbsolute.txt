@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\mail gönderici\mail gönderici\bin\Debug\mail gönderici.exe.config
+C:\Users\Administrator\source\repos\mail gönderici\mail gönderici\bin\Debug\mail gönderici.exe
+C:\Users\Administrator\source\repos\mail gönderici\mail gönderici\bin\Debug\mail gönderici.pdb
+C:\Users\Administrator\source\repos\mail gönderici\mail gönderici\bin\Debug\mail gönderici.xml
+C:\Users\Administrator\source\repos\mail gönderici\mail gönderici\obj\Debug\mail gönderici.vbprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\mail gönderici\mail gönderici\obj\Debug\mail_gönderici.Form1.resources
+C:\Users\Administrator\source\repos\mail gönderici\mail gönderici\obj\Debug\mail_gönderici.Resources.resources
+C:\Users\Administrator\source\repos\mail gönderici\mail gönderici\obj\Debug\mail gönderici.vbproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\mail gönderici\mail gönderici\obj\Debug\mail gönderici.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\mail gönderici\mail gönderici\obj\Debug\mail gönderici.exe
+C:\Users\Administrator\source\repos\mail gönderici\mail gönderici\obj\Debug\mail gönderici.xml
+C:\Users\Administrator\source\repos\mail gönderici\mail gönderici\obj\Debug\mail gönderici.pdb

@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\mail gönderici\mail gönderici\bin\Release\mail gönderici.exe.config
+C:\Users\Administrator\source\repos\mail gönderici\mail gönderici\bin\Release\mail gönderici.exe
+C:\Users\Administrator\source\repos\mail gönderici\mail gönderici\bin\Release\mail gönderici.pdb
+C:\Users\Administrator\source\repos\mail gönderici\mail gönderici\bin\Release\mail gönderici.xml
+C:\Users\Administrator\source\repos\mail gönderici\mail gönderici\obj\Release\mail_gönderici.Form1.resources
+C:\Users\Administrator\source\repos\mail gönderici\mail gönderici\obj\Release\mail_gönderici.Resources.resources
+C:\Users\Administrator\source\repos\mail gönderici\mail gönderici\obj\Release\mail gönderici.vbproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\mail gönderici\mail gönderici\obj\Release\mail gönderici.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\mail gönderici\mail gönderici\obj\Release\mail gönderici.exe
+C:\Users\Administrator\source\repos\mail gönderici\mail gönderici\obj\Release\mail gönderici.xml
+C:\Users\Administrator\source\repos\mail gönderici\mail gönderici\obj\Release\mail gönderici.pdb
